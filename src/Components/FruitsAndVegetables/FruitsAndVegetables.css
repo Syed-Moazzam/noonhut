@@ -1,0 +1,11 @@
+.sub-container-of-fruits-and-vegetables-products{
+    display: grid;
+    grid-template-columns: repeat(5,auto);
+}
+
+.fruit-and-vegetable-item{
+    border: 2px solid black;
+    width: 205px;
+    height: 260px;
+    margin: 10px 20px 15px 0px;
+}
